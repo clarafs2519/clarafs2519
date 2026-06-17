@@ -12,7 +12,7 @@ Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando ADS na FIAP
 <img align="right" alt="" height="150px" src="./.github/workflows/src/img.gif">
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack ^-^</h3>
 
 <img 
     align="left" 
@@ -53,7 +53,7 @@ Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando ADS na FIAP
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats ^-^</h3>
 
 <p>
   <img 
