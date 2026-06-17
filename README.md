@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="./src/welcome.gif">
+  <img src="./.github/workflows/src/welcome.gif">
   </a>
 </div>
 
@@ -9,7 +9,7 @@ Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando ADS na FIAP
 
 #
 
-<img align="right" alt="" height="190px" src="./src/img">
+<img align="right" alt="" height="190px" src="./.github/workflows/src/img.gif">
 
 
 <h3 align="left">My Stack ~</h3>
