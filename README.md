@@ -9,7 +9,7 @@ Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando ADS na FIAP
 
 #
 
-<img align="right" alt="" height="190px" src="./src/@mejwh · mejwh.gif">
+<img align="right" alt="" height="190px" src="./src/img">
 
 
 <h3 align="left">My Stack ~</h3>
