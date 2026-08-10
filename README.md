@@ -5,7 +5,7 @@
 </div>
 
 #
-Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando ADS na FIAP. Estou nessa jornada para construir uma base bem sólida na área de tecnologia e conquistar meu espaço no mercado de trabalho.
+Me chamo Clara, tenho 18 anos e sou de SP. Atualmente estou cursando Engenharia de Software na FIAP. Estou nessa jornada para construir uma base bem sólida na área de tecnologia e conquistar meu espaço no mercado de trabalho.
 
 #
 
